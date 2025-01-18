@@ -22,10 +22,12 @@ const(
     MINUS = "-"
     BANG = "!"
     ASTERIK = "*" 
-    SLASH = "/"
-
+    SLASH = "/" 
     LT = "<" 
     GT = ">"
+    EQ = "=="
+    NOT_EQ = "!="
+
 
     //Delimiters
     COMMA = ","
